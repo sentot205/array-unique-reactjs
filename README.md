@@ -2,7 +2,7 @@
 Npm Package for convert data to unique array.
 ## Example
 
-```
+```js
 import getUnique from "array-unique-reactjs";
 
 const prizelips = [
