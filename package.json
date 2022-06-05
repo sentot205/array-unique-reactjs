@@ -1,11 +1,19 @@
 {
   "name": "array-unique-reactjs",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.1.1",
+  "description": "Npm Package for convert data to unique array.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sentot205/array-unique-reactjs.git"
+  },
+  "keywords": [
+    "unique-array-data",
+    "reactjs"
+  ],
+  "author": "Sentot205 <r.sentot205@gmail.com> (https://sentot205.my.id/)",
+  "license": "MIT"
 }
