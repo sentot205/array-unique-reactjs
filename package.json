@@ -1,6 +1,6 @@
 {
   "name": "array-unique-reactjs",
-  "version": "1.0.1.1",
+  "version": "1.0.2",
   "description": "Npm Package for convert data to unique array.",
   "main": "index.js",
   "scripts": {
