@@ -1,5 +1,5 @@
 # Array Unique Reactjs
-Npm Package for convert data to unique array.
+Npm package that works to convert data to unique arrays. In other words the package to remove the existing data duplication in the data array.
 ## Example
 
 ```js
@@ -33,6 +33,7 @@ const uniquePrize = getUnique(prizelips, "price");
 function Test() {
   return (
     uniquePrize.map((item) => console.log(item.price))
+    // Output : 5000, 30000, 100000, 200000
   );
 }
 ```
